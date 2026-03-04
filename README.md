@@ -1,4 +1,4 @@
-# Virtual Robot Simulation (Python) — BFS + FSM + Obstacle Avoidance
+# Virtual Robot Simulation
 
 A minimal, structured **virtual autonomous robot** project in **Python**.
 The robot runs in a **2D coordinate-based environment** (x, y), senses its surroundings using **virtual sensors**, makes decisions using a **Finite State Machine (FSM)**, and reaches a **goal** using **Breadth-First Search (BFS)** path planning.  
