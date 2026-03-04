@@ -14,14 +14,14 @@ This project is designed to satisfy the **core mandatory requirements** of a “
 
 ## Features
 
-### Mandatory requirements ✅
+### Mandatory requirements 
 - **2D environment**: coordinate-based map with bounds and obstacles
 - **Robot model**: position `(x, y)`, orientation `(N/E/S/W)`, internal state
 - **Movement system**: move forward, turn left/right, collision prevention
 - **Decision-making**: rule/algorithm-based logic using virtual sensor data
 - **Simulation loop**: step-by-step updates of robot + environment
 
-### Extension tracks ✅
+### Extension tracks 
 - **Path Planning (BFS)**: robot plans a shortest path on a 4-neighborhood grid
 - **FSM**: organized behavior using explicit states and transitions
 - **Obstacle Avoidance**: reactive turning/moving when blocked
@@ -188,6 +188,7 @@ Why FSM helps:
 - Keeps logic organized instead of large nested `if` statements
 
 ---
- **Created By** : Yasmin Muntaser Nassar 
- **Student Number** : 120220221
+ - **Created By** : Yasmin Muntaser Nassar 
+ 
+ - **Student Number** : 120220221
  
